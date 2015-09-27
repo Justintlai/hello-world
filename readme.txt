@@ -1,7 +1,1 @@
-hello 
-
-this is another line
-
-adfgjo2t
-efgjn43t
-dfgkjhg
+This is a repository for linking git up with local copy
